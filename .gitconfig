@@ -5,6 +5,6 @@
 	cmd = "nvim -d $LOCAL $REMOTE"
 [user]
 	email = otsho-pr0@proton.me
-	name = Otsho-PR0
+	name = otsho-pr0
 [pull]
 	rebase = true
