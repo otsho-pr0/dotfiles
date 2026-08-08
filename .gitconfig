@@ -8,3 +8,5 @@
 	name = otsho-pr0
 [pull]
 	rebase = true
+[clone]
+	depth = 1
